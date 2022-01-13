@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="Home">
       <div className="lander">
-        <h1>- Login Tester - </h1>
+        <h1>- Fab Lab Homepage - </h1>
         <p className="text-muted">Test</p>
       </div>
     </div>
